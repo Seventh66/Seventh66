@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 大家好，It is a good chance to know with each other. 
+- 我是林子杰，来自福建宁德
+- 希望在大学的愉快四年里，跟同学们好好相处，共同进步
+- 现在沉迷于减肥难以自拔
 <!--
 **Seventh66/Seventh66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
