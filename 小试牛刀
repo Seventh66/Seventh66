@@ -1,0 +1,9 @@
+from turtle import *
+bgcolor("black")
+ht()
+speed(100)
+for i in range(250):
+    pencolor(["orange", "green", "purple", "red", "blue", "yellow"][i%6])
+    fd(i)
+    left(61)
+    width(i/40)
